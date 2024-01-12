@@ -13,8 +13,7 @@ This is an e-commerce application built with Sequelize and Express. It allows us
 
 ## Usage
 This video demonstrates the web application's appearance and functionality
-![This is a link to the video of how it works](https://app.screencastify.com/v2/watch/D6eGG2zLj45WHKya8AEM)
-
+ https://app.screencastify.com/v2/watch/D6eGG2zLj45WHKya8AEM
 
 
 ## Credits
